@@ -1,1 +1,1 @@
-https://anslli.github.io/rsschool-cv/cv
+https://Anslli.github.io/rsschool-cv/CV
