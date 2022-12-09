@@ -5,3 +5,7 @@
 Student of ***RS School*** *(JavaScript/Front-end course)* <br/>
 Elementary knowledge of SQL <br/>
 Higher economic education (KuzSTU)
+
+## Languages
+* English (B2)
+* Russin (native)
